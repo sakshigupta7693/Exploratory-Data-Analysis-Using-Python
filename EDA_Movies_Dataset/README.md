@@ -1,6 +1,8 @@
 # Exploratory Data Analysis on Movies Dataset
 
 __The Internet Movie Database (IMDb)__ is a website that serves as an online database of world cinema. This website contains a large number of public data on films such as the title of the film, the year of release of the film, the genre of the film, the audience, the rating of critics, the duration of the film, the summary of the film, actors, directors and much more.
+
+![image.png](images/Movies.png)
 The dataset consists of the information about 1000 Movies that were released from 2006 to 2016. Various variables present in the dataset includes Title ,Year ,director ,Actors ,Genre etc.
 
 Column Name  | Description 
