@@ -20,7 +20,7 @@ Metascore         | score given to movie by critics
 
 ### Problem Statement
 
-..*What is the average runtime of the movies ?
+* What is the average runtime of the movies ?
 ..*How the runtime  of the movie related to Rating,Revenue,Metascore of movies?
 ..*What are the top 10 movies having maximum revenues?
 ..*What is the yearly total revenue of all the movies?
