@@ -5,7 +5,6 @@ The dataset consists of the information about 1000 Movies that were released fro
 
 Column Name  | Description 
 --- | ---
-*Still* | `renders` | **nicely**
 Rank              | Movie Id                                                   
 Title             | Movie Name                                                 
 Genre             | what type of movie is                                     
@@ -21,14 +20,14 @@ Metascore         | score given to movie by critics
 
 ### Problem Statement
 
-*What is the average runtime of the movies ?
-*How the runtime  of the movie related to Rating,Revenue,Metascore of movies?
-*What are the top 10 movies having maximum revenues?
-*What is the yearly total revenue of all the movies?
-*Does runtime of the movies effect the Average reveneue collected per year?
-*What is the total revenue of movies according to Genre?
-*How the rating of movies vary according to Genre?
-*How the metascore of movies vary according to Genre]
-*What is the Distribution of votes in different Revenue levels in years?
-*What is the Distribution of Rating in different Revenue levels in years? 
+..*What is the average runtime of the movies ?
+..*How the runtime  of the movie related to Rating,Revenue,Metascore of movies?
+..*What are the top 10 movies having maximum revenues?
+..*What is the yearly total revenue of all the movies?
+..*Does runtime of the movies effect the Average reveneue collected per year?
+..*What is the total revenue of movies according to Genre?
+..*How the rating of movies vary according to Genre?
+..*How the metascore of movies vary according to Genre]
+..*What is the Distribution of votes in different Revenue levels in years?
+..*What is the Distribution of Rating in different Revenue levels in years? 
     
